@@ -55,7 +55,7 @@ def send_ip_info(message):
                 f"🏢 *Organization:* {data['org']}\n"
                 f"🔗 *AS:* {data['as']}\n"
                 f"🌍 *Google Map:* https://maps.google.com/maps?q={data['lat']},{data['lon']}\n\n"
-                f"👤 *Created by:* [Alienkrishn](https://t.me/Ronjuvai2299)"
+                f"👤 *Created by:* [Ronjupro](https://t.me/Ronjuvai2299)"
             )
         else:
             info = "Could not retrieve information for that IP address."
